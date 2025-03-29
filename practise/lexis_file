@@ -5,3 +5,5 @@ echo "your location"
 read
 echo "your pin"
 read -s -p "my pin"
+echo "your current balance is:"
+read -s "my balabce"
